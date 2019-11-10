@@ -1,0 +1,9 @@
+[Unit]
+Description=Set volume for Steam Big Picture mode
+
+[Service]
+Type=simple
+ExecStart=
+
+[Install]
+WantedBy=multi-user.target
